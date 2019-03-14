@@ -22,7 +22,7 @@ body {
     display: grid;
     grid-template-columns: 1fr 5fr 1fr;
     grid-column-gap: 1em;
-    background-color: #ccc;
+    background-color: #9bc1bc;
 }
 
 .logo-name {
